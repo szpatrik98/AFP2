@@ -35,3 +35,9 @@ Megrendelõ: Hát mi ezekhez a programozós dolgokhoz nem igazán értünk, úgy
 Kivitelezõ: Rendben van, elsõ körben ennyi információ elegendõ, hogy felépítsük a specifikációt. Mihelyt készen vagyunk vele, továbbítjuk Önök felé, ezt majd tüzetesen olvassák át, hogy valóban és pontosan fedi-e az igényeiket. Ha igen, akkor megkezdhetjük a munkát, ha nem, akkor további egyeztetések szükségesek, hogy pontosítsuk a követelményeket.
 
 8. Fogalom szótár
+-bug: fejlesztési hiba, ami által a program nem a várt eredményt hozza. 
+-main menu: a fõ menü, amely a weboldal/program indulásakor megjelenik.
+-gameboard: játék közben, a különbözõ elemeket tartalmazó felület.
+-backend: a kiszolgáló, ahonnan az alkalmazást el lehet érni. 
+-frontend:  egy réteg ami feladata a rendszerbõl kijutó adatok prezentálása, illetve a bejövõ adatok fogadása.
+-web-service: különbözõ programnyelveken írt és különbözõ platformokon futó szoftveralkalmazások interneten keresztül történõ adatcseréjére használt webszolgáltatások.
