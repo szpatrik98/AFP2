@@ -14,4 +14,24 @@
 
 7. Irányított és szabad szöveges riportok szövege
 
+Szabad szöveges riport szövege
+Kivitelezõ: Legyen szíves írja le nekem, hogy pontosan mire is van szükségük!
+Megrendelõ: Tehát mi egy olyan weboldalt szeretnénk, amivel kocsikat tudunk megrendelni. Gondolok itt az fajta és tipusra.
+Kivitelezõ: Mivel foglalkozik a cégük konkrétan?
+Megrendelõ: Kocsik leszálításával. Ügyfeleink között ezért általabán a gazdagabb réteget fogjuk meg.
+Kivitelezõ: Van már pontos elképzelésük arról, hogy mit akarnak, vagy csak az ötlet merült fel, hogy "de jó lenne, ha lenne egy ilyenünk"?
+Megrendelõ: Õõõõõ... Konkrétan ez így még nincs meg, de egyeztetek a vezetõséggel, hogy hogyan gondolják. Folytathatjuk ezt a megbeszélést 2 nap múlva?
+Kivitelezõ: Hogyne!
+
+2 nap múlva:
+Kivitelezõ: Üdv, sikerült kideríteni, hogy mi a konkrét elvárás?
+Megrendelõ: Hello, igen, egyeztettem az illetékesekkel. Úgy gondoljuk, hogy az eddigi offline bevált módszereinket kellene átkonvertálni az online felületre is. Az eddigi programunk egy offline applikáció volt és adatbazisban taroltuk el kinek mi a megrendelése.
+Kivitelezõ: Világos. Akkor ha jól értem nekünk a programszintû megoldást kell szállítanunk, amibe Önök pakolják majd bele a tartalmat?
+Megrendelõ: Pontosan így van, hiszen Önök ahhoz értenek, hogy egy rendszert tegyenek alá, mi meg ahhoz, hogy ezt feltöltsük a saját kocsi tipusainkal.
+Kivitelezõ: Arról van már elképzelésük, hogy hogyan nézzen ki az alkalmazás, illetve a webes felület? Kell-e regisztráció? Hányan használják majd egyszerre? Milyen funkciók kellenek bele?
+Megrendelõ: Tekintve, hogy a célcsoportunk a felnőttek  jó lenne, ha az õ ízlésüknek megfelelõ lenne a design. Szóval egy viissza fogot ám nem unalmas design szeretnénk.
+Kivitelezõ: Világos. A használt technológiákra és eszközökre van valamilyen megkötésük?
+Megrendelõ: Hát mi ezekhez a programozós dolgokhoz nem igazán értünk, úgyhogy az Önök szakértelmére bízzuk a dolognak ezt a részét. Használjanak olyat, amit Önök megfelelõnek látnak.
+Kivitelezõ: Rendben van, elsõ körben ennyi információ elegendõ, hogy felépítsük a specifikációt. Mihelyt készen vagyunk vele, továbbítjuk Önök felé, ezt majd tüzetesen olvassák át, hogy valóban és pontosan fedi-e az igényeiket. Ha igen, akkor megkezdhetjük a munkát, ha nem, akkor további egyeztetések szükségesek, hogy pontosítsuk a követelményeket.
+
 8. Fogalom szótár
