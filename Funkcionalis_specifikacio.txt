@@ -14,7 +14,62 @@
 
 7. Követelménylista
 
+7.1 Funkcionális követelmények
+
+	Vendégként a fooldalon szeretnék autókat látni kategóriánként.
+
+	Vendégként szeretnék az autók között szabadon böngészni.
+
+	Vendégként szeretnék egy autóleírást megtekinteni.
+
+	Vendégként szeretnék autót keresni.
+
+	Vendégként szeretnék tudni regisztrálni az oldalra.
+
+	Felhasználóként szeretnék tudni bejelentkezni az oldalra.
+
+	Felhasználóként szeretném tudni a profiladataimat szerkeszteni.
+
+	Felhasználóként szeretnék az autók leírásához hozzászólni és értékelni azokat.
+
+	
+
+	7.2 Nem funkcionális követelmények
+
+	Felhasználóbarát, ergonomikus elrendezés és kinézet.
+
+	Gyors muködés.
+
+	Biztonságos muködés: jelszavak tárolása, funkciókhoz való hozzáférés.
+
 8. Használati esetek
+
+Szereplők:
+	vendég: Az a felhasználó, aki azonosítatlanul használja az alkalmazást. A weben a legtöbb látogató ilyen. A vendég felhasználó csak a publikus oldalakat és funkciókat érheti el. Ilyenek a főoldal, 	a rólunk és az autós listák, a bemutató oldal, valamint a bejelentkezés és regisztráció.
+
+	bejelentkezett, azonosított felhasználó: a bejelentkezett felhasználók a publikus oldalakon kívül az autókhoz véleményt írhatnak és értékelhetik azokat, továbbá.
+
+	adminisztrátor: a felhasználói adatokat módosítani képes felhasználó, új autókat tud hozzáadni, módosítani és meglévőket törölni.
+
+Vendég használati esetei:
+	- Regisztráció: Szabadon regisztrálni tud az oldalon, egyszeri email cím, nem foglalt felhasználónév és jelszó megadásával.
+	- Bejelentkezés: A felhasználó be tud jelentkezni, ha már regisztrált.
+	- Autó adatainak megnézése.
+	- Autók listázása kategóriánként.
+	
+Bejelentkezett felhasználó használati esetei: 
+	- Regisztráció: Szabadon regisztrálni tud az oldalon, egyszeri email cím, nem foglalt felhasználónév és jelszó megadásával.
+	- Bejelentkezés: A felhasználó be tud jelentkezni, ha már regisztrált.
+	- Autó adatainak megnézése.
+	- Autók listázása kategóriánként.
+	- Autókhóz kommentelés.
+	- Autók értékelése 10-es skálán.
+
+Admin használati esetei:
+	- Felhasználók adatainak módosítása.
+	- Új autók hozzáadása.
+	- Autók adatainak módosítása.
+	- Autók törlése.
 
 9. Megfeleltetés
 
