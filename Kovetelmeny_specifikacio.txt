@@ -12,6 +12,34 @@
 
 6. Követelmény lista
 
+	6.1 Funkcionális követelmények
+
+	Vendégként a fooldalon szeretnék autókat látni kategóriánként.
+
+	Vendégként szeretnék az autók között szabadon böngészni.
+
+	Vendégként szeretnék egy autóleírást megtekinteni.
+
+	Vendégként szeretnék autót keresni.
+
+	Vendégként szeretnék tudni regisztrálni az oldalra.
+
+	Felhasználóként szeretnék tudni bejelentkezni az oldalra.
+
+	Felhasználóként szeretném tudni a profiladataimat szerkeszteni.
+
+	Felhasználóként szeretnék az autók leírásához hozzászólni és értékelni azokat.
+
+	
+
+	6.2 Nem funkcionális követelmények
+
+	Felhasználóbarát, ergonomikus elrendezés és kinézet.
+
+	Gyors muködés.
+
+	Biztonságos muködés: jelszavak tárolása, funkciókhoz való hozzáférés. 
+
 7. Irányított és szabad szöveges riportok szövege
 
 Szabad szöveges riport szövege
