@@ -58,7 +58,34 @@
 
 5. Jelenlegi üzleti folyamatok modellje
 
+Az alábbi üzleti folyamatmodellt kell átalakítani az Igényelt üzleti folyamatok modellje c. fejezet alapján:
+Jelenleg egy ügyfél csak személyesen tud tájékozódni a kereskedő által, egy adott modellről. A kereskedőnek nincs adatbázisa az általa kínált modellekről. Az ügyfél nem tudja konkrétan felmérni, az igényeihez megfelelő modellek tulajdonságait, típushibáit. A kereskedő, a birtokában álló információkat átadja az ügyfélnek, ezalapján az ügyfél döntést hoz, melyik modellt vásárolja meg. A kereskedőnek limitált az erőforrása, minden ügyfél igényét nem tudja kielégíteni. A kereskedés limitált ideig van nyitva, az ügyfelek azonnali választ akarnak a kérdéseikre, amennyiben nem kapják meg, a kereskedés elesik potenciális vásárlóktól. A kereskedés nem tartja számon a korábbi vásárlók tapasztalatait a megvásárólt modellekről.
+
 6. Igényelt üzleti folyamatok modellje
+
+ Az utóbbi időben megnövekedett igényeket a megrendelő üzleti modellje már nem képes kielégíteni, ezért alternatív módszerek (online, webes) irányába fordultak.
+Az új üzleti modellben az általunk fejlesztett websitenak elő kell segíteni az eddigi alakalmazott üzleti folyamatokat és a megrendelő által felvetett igényekkel, kiegészíteni azt.
+Röviden, az egész folyamat adminisztratív feladatainak gyorsítását, illetve a továbbiakat:
+Egy olyan website kifejlesztése a cél, amelyet a regisztrált felhasználó és a vendégek is egyaránt képesek használni. Amelyen bárki képes kategóriák szerint csoportosítani autókat, ezek információit, gyorsan, interneten keresztül elérni. Továbbá felhasználók számára tapasztalat megosztás és értékelés.
+	1. Célunk egy átlátható website készítése elsősorban ügyfelek számára.
+	2. Az autóvásárlás gördülékenységét elősegíteni.
+	3. Az ügyfelekben a bizalomfaktort növelni, harmadik fél bevonásával.
+	4. Kizárólag regisztrált felhasználók támogatása egyes funkcióknál. Ezzel nyilvántarthatóság növelése.
+	5. Otthonról elérhető kapcsolat a kereskedő és az ügyfél között.
+	6. Otthonról elérhető kapcsolat korábbi ügyfél és érdeklődő között.
+ Elonyök: 	- gyors visszacsatolás
+	- átláthatóság
+	- bizalom
+
+Képességek:  	- ügyfél nyitottság
+	   	- adatbázis könnyű, gyors kezelése
+		- több kereskedői szabadidő
+		- értékelés egyertelműsége
+
+Lehetoségek:	- csökkenteni lehet a munkerot
+		- időt spórolhatnak vele
+		- nincs szükség személyes találkozóra
+		- kereskedés fenntartási költségeinek csökkentése
 
 7. Követelménylista
 
