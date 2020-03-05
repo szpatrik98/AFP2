@@ -5,9 +5,9 @@
 5.Funkcionális terv.
 6.Fizikai környezet.
 7.Absztrakt domain modell.
-	A mappában tlaálható egy .png ilyen néven.
+	A mappában található egy .png ilyen néven.
 8.Architekturális terv.
-	A mappában tlaálható egy .png ilyen néven.
+	A mappában található egy .png ilyen néven.
 9.Adatbázisterv.
 10.Implementáció.
 	
