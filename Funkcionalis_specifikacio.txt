@@ -1,6 +1,18 @@
 ﻿0. Vezetői összefoglaló
 
 1. A rendszer céljai, és nem céljai.
+	Az elkészítendő szoftver célja, hogy a megrendelő cég könnyebben és több személygépjárművet tudjon értékesíteni. Jelenleg a vásárlók 
+	személyesen keresik fel üzleteiket és munkatársaikon keresztül tájékozódnak a kívánt termékek felől. A szoftver segítségével 
+	a potenciális ügyfelek otthonról nagy számban bármely kereskedés kínálatát elérhetik, információkat gyűjthetnek és leszűkíthetik, 
+	akár meg is vásárolhatják a személygépjárműveket. A cég így kevesebb alkalmazottat kell eltartson -igazi jó kis neoliberális buli-, 
+	fókuszáltan hirdethetne és extra profitra tehetne szert, valamint versenyben maradna a hasonló cégekkel szemben, akik nem állami 
+	megrendelésekből élnek, hanem helyt kell álljanak a piacon, hiszen ők már valamennyien szert tettek ilyen, vagy ehhez hasonló szoftverre. 
+	A cél, hogy könnyen, kellemesen költhessék el millióikat az ügyfelek, miközben egy vidám felhasználói felületen hitelreklámokkal bombázzuk 
+	őket a partner bankok legnagyobb örömére. Szórakozva, felelősségmentesen, otthonról vásárolni, mint az alibabán, vagy az ebayen.
+	A személyes kontraktus így leszűkülne az átadás-átvételre, nem kell tovább szenvedni az idióta vásárlókkal, elég csak a kulcsokat átnyújtani 
+	a kezükbe. 
+	A rendszernek nem célja felelősségteljes vásárlásra bírni a felhasználót, az elbocsájtott 20 munkatársunk számára nyugdíjalapot, vagy egészségbiztosítást
+	nyújtani. Nem helyettesítné továbbá a szerződéskötés során való kötelező megjelenést, illetve a gépjárművet sem szállítanánk ki megadott címekre.
 
 2. Jelenlegi helyzet leírása
 
