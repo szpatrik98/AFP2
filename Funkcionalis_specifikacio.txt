@@ -100,9 +100,9 @@ Szereplők:
 	adminisztrátor: a felhasználói adatokat módosítani képes felhasználó, új autókat tud hozzáadni, módosítani és meglévőket törölni.
 
 Vendég használati esetei:
-	- Regisztráció: Szabadon regisztrálni tud az oldalon, egyszeri email cím, nem foglalt felhasználónév és jelszó megadásával.
-	- Bejelentkezés: A felhasználó be tud jelentkezni, ha már regisztrált.
-	- Autó adatainak megnézése.
+	- Regisztráció: Szabadon regisztrálni tud az oldalon, egyszeri email cím, nem foglalt felhasználónév és jelszó megadásával.	
+	- Bejelentkezés: A felhasználó be tud jelentkezni, ha már regisztrált.	
+	- Autó adatainak megnézése.	
 	- Autók listázása kategóriánként.
 	
 Bejelentkezett felhasználó használati esetei: 
@@ -119,15 +119,34 @@ Admin használati esetei:
 	- Autók adatainak módosítása.
 	- Autók törlése.
 
-9. Megfeleltetés
-
+9. Megfeleltetés - használat eset diagramok és követelményspecifikáció megfeleltetése
+	☑ - Elkészül	? - Nem biztos, hogy release napi funkció	☒ - Nem készül el a release napig
+	-Regisztrácó és Bejelentkezés a felhasználók számára.
+	-Felhasználó saját adatainak a szerkesztése.
+	-Felhasználó hozzászólása, értékelése.
+	-Felhasználó számára lehetőség a kategóriák kilistázására.
+	-Admin újautó hozzáadása/törlése/módosítása.
+	
 10. Képernyőtervek
 
 11. Forgatókönyvek:
+	- Regisztráció: Szabadon regisztrálni tud az oldalon, egyszeri email cím, nem foglalt felhasználónév és jelszó megadásával.
+	- Felhasználó: Szabad bögészés az autók között.	
+	- Adminisztrátor: a felhasználói adatokat módosítani képes felhasználó, új autókat tud hozzáadni, módosítani és meglévőket törölni.
 
 12. Funkció - követelmény megfeleltetés
-
+	Funkcionális követelmények megfeleltetése:
+		-a fooldalon szeretnék autókat látni kategóriánként, mivel ez mondható a design funkciónak, és az oldal felépítését határozza meg ezert (8/10).
+		-szeretnék az autók között szabadon böngészni,autót keresni, és esetleg egy autóleírást megtekinteni, mivel ez lenne az oldal lényege így fontosságilag (6/10).
+		-szeretnék tudni regisztrálni az oldalra, és bejelentkezni, a felhasználó számára és hogy megtudjuk különböztetni a felhasználókat ezért priorítás szempontjából(7/10).
+		- Felhasználóként szeretném tudni a profiladataimat szerkeszteni, a felhasználó számára ez a funkció elég fontos hiszen változhat az email címe más elérhetősége.(5/10)
+		- szeretnék az autók leírásához hozzászólni és értékelni azokat,ez a kocsik leírásához adna saját tapasztalatokat és fontos lenne más felhasználók számára más felhasználó véleménye.(4/10).
+	Nem funkcionális követelmények megfeleltetése:
+		-Felhasználóbarát, ergonomikus elrendezés és kinézet, és gyors müködés, mivel ez a program alapja ezért ez bir a legmagasabb priorítással(10/10).
+		
+		- Biztonságos muködés: jelszavak tárolása, funkciókhoz való hozzáférés, mivel ez adatvédelmi szempontból is nagyon fontos ezért priorítás szemponjtából(9/10).
 Fogalomszótár:
+
 -bug: fejlesztési hiba, ami által a program nem a várt eredményt hozza. 
 -main menu: a fõ menü, amely a weboldal/program indulásakor megjelenik.
 -gameboard: játék közben, a különbözõ elemeket tartalmazó felület.
