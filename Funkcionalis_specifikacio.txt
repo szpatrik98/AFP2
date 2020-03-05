@@ -15,6 +15,16 @@
 	nyújtani. Nem helyettesítné továbbá a szerződéskötés során való kötelező megjelenést, illetve a gépjárművet sem szállítanánk ki megadott címekre.
 
 2. Jelenlegi helyzet leírása
+	Egy olyan rendszer megvalósítása amely a funkcionális specifikációban leírt vágyálomrendszernek megfelel.
+	Célunk egy webes felület kialakítása, mely lehetővé teszi, hogy a felhasználók személygépjárműveket rendelhessenek
+	maguknak minél egyszerűbben és gyorsabban, miközben könnyű hozzáférhetőséget teszünk lehetővé adatbázisainkhoz és 
+	a felhasználói egyéb funkciókhoz.
+	A belépés során elkülönítjük az üzemeltetői, tulajdonosi és a felhasználói csoportokat. Előbbiek természetesen extra 
+	jogosultságokkal bírnak majd és szerkeszthetik, fejleszthetik a portált a továbbiakban is.
+	A felhasználó hozzáférhet az összes alapvető funkcióhoz, további jogosultságokkal azonban nem bír, kapcsolatfelvételre 
+	emailben, vagy telefonon jogosult esetleges információhiány, vagy technikai probléma esetén.
+	A tulajdonos adatokat küldhet és törölhet, valamint extra szolgáltatásokat kérvényezhet a továbbiakban, azonban a szerkesztést
+	és az üzemeltetést a jövőben kötendő szerződés felbontásáig cégünk végzi.
 
 3. A vágyálomrendszer leírása
 
