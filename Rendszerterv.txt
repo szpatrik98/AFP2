@@ -5,9 +5,29 @@
 5.Funkcionális terv.
 6.Fizikai környezet.
 7.Absztrakt domain modell.
+	A mappában tlaálható egy .png ilyen néven.
 8.Architekturális terv.
+	A mappában tlaálható egy .png ilyen néven.
 9.Adatbázisterv.
 10.Implementáció.
+	
+	
+	Üzleti logika osztályok:
+		LoginLogout
+		Registration	
+		Érékelés
+		Kommentelés
+		Megrendelés
+		Módositás
+		Törlés
+		Hozzáadás
+				
+	Kliens oldal osztályai:		
+		RegisterPage
+		MainWindow
+		KategoriPage
+		CarDataPage
+		AboutPage
 11.Tesztterv.
 	I. Unit tesztek
 		A program könnyebb kezelése és a lehető legtöbb hiba elkerülése érdekében fontos, hogy a fejlesztés közben is lehetőleg minden metódusra legyen írva unit teszt.
