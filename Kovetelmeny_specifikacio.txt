@@ -1,6 +1,9 @@
 ﻿0. Vezetõi összefoglaló
 
 1. Jelenlegi helyzet leírása
+	A rendszer célja, hogy a gyerekek egy olyan környezetben tanuljanak, amelyben nem a tanulást, hanem a 	szórakozást érezzék. Ha egy általános iskolás gyermek angolul szeretne tanulni, és leültetjük egy könyv fölé, 	és adunk neki egy munkafüzetet, az nem lesz olyan hatékony, mintha egy olyan játékos oktató programmal 	tanulna, ami játszva vezeti őt be egy ismeretlen világba. Csakis a megalkotó kreativitása szabhat határt, hogy 	milyen játékos feladatokkal és magyarázatokkal taníttassa meg a kis nebulónak az ismeretlen világ rejtelmeit. 	Természetesen nem csak idegen nyelveket lehet megtanítani, hanem például a matematikát, a helyes 	nyelvtant, vagy akár még a tanulási módszereket is. A cél, egy olyan barátságos, színes környezet 	kialakítása, amiben a diák szívesebben tanul, és elsajátítja azokat az alapvető talentumokat, amelyekre a 	tényleges tananyag épül.
+	A rendszer nem célja, hogy felcserélje az iskolai oktatást, ezzel a játékosan-tanuló módszerrel. Ez a játszva 	tanulás inkább amolyan kezdés, hogy a gyerek ne utálja meg első kézből a tanulást. Nem célja továbbá 	helyettesíteni a tanárok oktatását, és az internetes "száraz" tananyagokat.
+
 
 2. Vágyálom rendszer
 
