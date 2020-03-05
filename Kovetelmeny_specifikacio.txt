@@ -23,7 +23,19 @@
 
 4. Jelenlegi üzleti folyamatok modellje
 
+	1. Jelenleg az autókereskedők személyesen fogadják az ügyfeleiket. Az ügyfelek a helyszínen tájékozódnak minden modellről. A helyszínen kell meghoznia a döntését, a kizárólag ott kapott információk alapján.
+	2. Az ügyfelek személyesen érdeklődnek a kereskedőnél, különböző modellek adatai iránt.
+	3. Az ügyfelek egymás között nem tudnak tapasztalatokat megosztani.
+	4. A kereskedőnek nincs visszajelzése az ügyféltől, egy adott modell megvásárlása után.
+
 5. Igényelt üzleti folyamatok modellje
+	
+	1. Egy olyan website fejlesztése amely segíti az autókereskedés és az autóvásárlók/érdeklődők közötti kapcsolatot.
+	2. Az autóvásárlók/érdeklődők könnyebben átláthatják az általuk kiszemelt modellek adatait.
+	3. Az autóvásárlók/érdeklődők egymás közt megoszthatják tapasztalataikat, különböző modellekről.
+	4. A szoftver célja nem egy fórum kialakítása, minden autóhoz külön kommentek tartoznak és csak a nyilvántartott, bejelentkezett felhasználók írhatnak hozzá.
+	5. A nem regisztrált felhasználók olvashatják a kommenteket és az autók adatai is elerhetők számukra.
+	6. Az autókereskedés visszajelzést kap az érdeklődők, autót használók véleményeiről, igényeiről.
 
 6. Követelmény lista
 
