@@ -9,5 +9,32 @@
 9.Adatbázisterv.
 10.Implementáció.
 11.Tesztterv.
+	I. Unit tesztek
+		A program könnyebb kezelése és a lehető legtöbb hiba elkerülése érdekében fontos, hogy a fejlesztés közben is lehetőleg minden metódusra legyen írva unit teszt.
+		
+	II. Alpha teszt
+		Az alpha tesztet a fejlesztők végzik, amelyben a rendszer összeomlását próbálják elérni remélhetőleg sikertelenül. Amennyiben felderítenek egy hibát jelentést írnak róla, majd javítják.
+		Az alpha teszt során külön tesztelni kell a fontosabb funkciókat, mintpedig: 
+		Feladatok menedzselése, megoldása, adatbázis elérése, felhasználók kezelése, design letisztultsága.
+		A teszt során a hibák csökkentése az elsődleges cél.
+		
+	III. Béta teszt:
+		Az alpha tesztet követően a felhazsnálók elvégzik a béta tesztet, melynek során a kódban maradt súlyos hibák felderítésre kerülnek, majd a fejlesztők javítják őket.
+		A teszt során a stabilitás, letisztultság növelése a cél. A tezstekről naplót kell készíteni, amely alapján lehetségek hibáknál kitölthető a hibajelentő.
 12.Telepítési terv.
+	Fizikai telepítési terv:
+		-Szükség van egy adatbázis szerverre, amely direktbe csatlakozik LAN-on a webszerverre.
+		-A webszerverre közvetlenül az internetről kapcsolódnak rá a kliensek.
+
+	Szoftver telepítési terv:
+		-A szoftver webes felületéhez csak egy ajánlott a böngésző telepítése szükséges( Google Chrome, Firefox, Opera, Edge) külön szoftver nem kell hozzá
+
 13.Karbantartási terv.
+  A szoftver a jövőben nem igényel nagy karbantartásokat, a szükséges karbantartások az alábbi egységekből állnak:
+    -Frissebb verziójú böngészőkben történő tesztelés, hiba észlelése esetén azoknak javítása.
+    
+    -A kiszolgáló szerver státuszának ellenőrzése, offliine szerver esetén újraindítás.
+    
+    -Igény esetén új funkciók implementálása.
+    
+    -Igény esetén új feladat típusok implementálása.
