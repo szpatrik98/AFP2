@@ -6,6 +6,18 @@
 
 
 2. Vágyálom rendszer
+	A végcél egy olyan működő website, melynek köszönhetően a vásárló könnyen, informatívan és egyszerűen lenne képes 
+	megtalálni a számára legoptimálisabb megoldást gépjárművásárlás frontján. A megrendelő kevesebb ráfordítással, 
+	csökkentett személyzeti terhek igénybevétele mellett tudna nagyobb piacon eredményesen hirdetni, akár partnerek 
+	bevonásával is, ezáltal minél több vásárlót elérvén maximalizálhatná profitját a korszellemnek megfelelően. 
+	Amennyiben sikeres a projekt első fázisa később további funkciókkal is kiegészíthetnénk, melyekhez a szükséges információt 
+	tök legálisan a google, vagy a facebook mintájára spyware algoritmusokkal gyűjthetnénk össze. Így sokkal többet tudnánk meg 
+	az oldalt használó személyről, mint amennyit akár a saját édesanyja is tudásként birtokol. A websitenak valamennyi felületen 
+	működnie kellene, Androidtól az asztali számítógépek operációs rendszereiig. 
+	Az a célunk, hogy a vásárlás pillanatát a vevő igaz katarzisként élje meg és a termékeink között böngészve eltöltse a tökéletes 
+	harmónia érzése. Nyugatos, vagány életérzés, hogy talán először mióta meglátta a napvilágot tudja, hogy valami történik, aminek 
+	értelme lesz. A majdan státusszimbólumként, primitív, ostoba vágyai gyanánt vásárolt drága gépjármű puszta látványa is boldogsággal 
+	töltse el egyszerű lelkét és közösen mosolyogjon az eladóval földöntúli eufóliában tovább népszerűsítve szolgáltatásainkat!
 
 3. Jogi háttér
 
