@@ -27,6 +27,32 @@
 	és az üzemeltetést a jövőben kötendő szerződés felbontásáig cégünk végzi.
 
 3. A vágyálomrendszer leírása
+	A program elindításakor választhatunk, hogy felhasználói, illetve tulajdonosi, üzemeltetői jogosultsággal szeretnénk-e belépni.
+	Ezt kiválasztva lehetőségünk van regisztrálni, felhasználóként ez teljesen ingyenes és akadálymentes, 
+	tulajdonosként regisztrálni azonban csak egy előre megadott és a megrendelő számára hozzáférhetőve tett azonosító szám
+	megadásával lehet, így megakadályozva, hogy illetéktelen személy hozzáférjen érzékeny adatokhoz, illetve az aktuális adatbázishoz.
+	Szerkesztői jogosultsága kizárólag cégünk által delegált munkatársainknak lehet, ezt külön intézzük el.
+	A tulajdonosi felületen a standard funkciókhoz képest továbbiakat is észlelhetünk:
+		1. Adatbázis szerkesztése
+			1.1 Kategória létrehozása
+				1.1.1 Személygépjármű hozzáadása
+				1.1.2 Személygépjármű paramétereinek szerkesztése
+				1.1.3 Személygépjármű törlése
+			1.2 Felhasználói igények listája
+			1.3 Felhasználói megrendelések listája
+		2. A megrendelői kosarak követése
+			2.1 Kosár tartalmának kezelése
+			2.2 Igény kielégítése
+			2.3 Lezárt procedúrát követően kosár törlése
+		
+	Tulajdonosként tehát szerkeszthetjük adatbázisainkat, vétel-eladás esetén autókat törölhetünk, vagy vehetünk fel.
+	Esetleges változásokat a paraméterekben, melyek a kínált termékekkel kapcsolatosak szerkeszthetünk. Karban tarthatjuk 
+	a szükséges állományokat. Válaszolhatunk a felhasználók leveleire, igényeik teljesíthetjük, valamint kéréseket fogalmazhatunk meg
+	a fejlesztői csapat irányába.
+	Felhasználóként böngészhetjük a kínált termékek listáit, vásárolhatunk, előrendelhetünk, kapcsolatot vehetünk fel a tulajdonossokkal.
+	Fejlesztőként teljes hozzáférésünk van a kódhoz, ezen keresztül a felületekhez. Ujabb felmerülő igények esetén új verzió, extra applikációk
+	létrehozását kreálhatjuk, mantiss rendszerünkön keresztül a hibákat a szolgáltatói alapdíjban foglaltaknak megfelelően ingyenesen 
+	és azonnali hatállyal javíthatjuk.
 
 4. A rendszerre vonatkozó külsõ megszorítások
 
