@@ -148,12 +148,15 @@ Admin használati esetei:
 
 9. Megfeleltetés - használat eset diagramok és követelményspecifikáció megfeleltetése
 	☑ - Elkészül	? - Nem biztos, hogy release napi funkció	☒ - Nem készül el a release napig
-	-Regisztrácó és Bejelentkezés a felhasználók számára.
-	-Felhasználó saját adatainak a szerkesztése.
-	-Felhasználó hozzászólása, értékelése.
-	-Felhasználó számára lehetőség a kategóriák kilistázására.
-	-Admin újautó hozzáadása/törlése/módosítása.
-	
+	☑-Regisztrácó és Bejelentkezés a felhasználók számára.
+	?-Felhasználó saját adatainak a szerkesztése.
+	☑-Felhasználó hozzászólása, értékelése.
+	☑-Felhasználó számára lehetőség a kategóriák kilistázására.
+	☒-Admin számára más flehasználó törlése.
+	☑-Admin újautó hozzáadása
+	☑-Admin meglévő autó törlése.
+	☑-Admin meglévő autó módosítása.
+	☒-Adminnak lehetősége letiltani egy felhasználót adott időtartamra.
 10. Képernyőtervek
 
 11. Forgatókönyvek:
